@@ -84,3 +84,9 @@ Ve a la sección de Discussions ahí encontraras los siguientes foros:
 
 ## 🎉Ya eres parte del club 🎉
 Puedes revisarte en el siguiente [Link](https://club-informatico.github.io/Intro-presentar/)
+
+## Colaboradores
+
+<a href="https://github.com/Club-Informatico/Intro-presentar/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Club-Informatico/Intro-presentar" />
+</a>
